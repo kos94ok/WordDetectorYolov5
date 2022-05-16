@@ -5,7 +5,7 @@ Detect handwritten words with YOLOV5
 
 <p float="left">
 <img src="./test_2.png" width="300" />
-<img src="./test_1.png" width="600" />
+<img src="./test_1.png" width="400" />
 </p>
 
 ## Installation
