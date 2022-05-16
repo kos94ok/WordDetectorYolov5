@@ -40,7 +40,7 @@ for crop in crops:
     boxArray.append(int(box))
   boxes.append(boxArray)
   
-  # Sorting words from left to right
+ # Sorting words from left to right
  lines = words.sort_words(np.array(boxes))
 
 #Show results
