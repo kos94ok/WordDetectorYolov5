@@ -1,6 +1,13 @@
 # Handwritten Word Detector wit YOLOV5
 Detect handwritten words with YOLOV5
 
+## Demo
+
+<p float="left">
+<img src="./test_2.png" width="300" />
+<img src="./test_1.png" width="700" />
+</p>
+
 ## Installation
 - `git clone https://github.com/kos94ok/WordDetectorYolov5.git`
 - `cd WordDetectorYolov5`
