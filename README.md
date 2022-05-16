@@ -1,4 +1,4 @@
-# Handwritten Word Detector wit YOLOV5
+# Handwritten Word Detector with YOLOV5
 Detect handwritten words with YOLOV5
 
 ## Demo
