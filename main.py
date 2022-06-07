@@ -22,7 +22,7 @@ for crop in crops:
   boxes.append(boxArray)
   
   # Sort words left-right
- lines = words.sort_words(np.array(boxes))
+lines = words.sort_words(np.array(boxes))
 
 #Show results
 for line in lines:
